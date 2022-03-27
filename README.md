@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdullahejazj
-- 🌱 I’m currently learning Javascript ...
+- 🌱 I’m currently learning Javascript & MERN STACK ...
 - 📫 How to reach me ... @ abdullahejazj@gmail.com
 
 <!---
